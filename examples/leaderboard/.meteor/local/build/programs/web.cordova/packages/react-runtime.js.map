@@ -1,0 +1,2 @@
+)]}'
+{"version":3,"sources":["react-runtime/react-runtime.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,mC;AACA,gD;AACA,Q;AACA,oB;AACA,C","file":"/packages/react-runtime.js","sourcesContent":["if (Package[\"react-runtime-dev\"]) {\n  React = Package[\"react-runtime-dev\"].ReactDev;\n} else {\n  React = ReactProd;\n}"]}
